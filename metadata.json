@@ -1,0 +1,5 @@
+{
+  "name": "Sketch & Seek",
+  "description": "Draw a famous landmark on the sketchpad, and our AI travel buddy will identify it, show you its location on a map, and display images. A fun way to discover the world from your drawings!",
+  "requestFramePermissions": []
+}
